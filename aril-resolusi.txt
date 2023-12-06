@@ -6,3 +6,4 @@ Resolusi Saya:
 
 tidak terlalu dibutuhkan:
 -Belajar React JS
+-belajar GOLANG
