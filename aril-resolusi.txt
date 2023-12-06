@@ -1,5 +1,4 @@
 Resolusi Saya:
--Belajar Tentang Git
 -Belajar tentang HTML & CSS
 -Belajar tentang Javascript
 -Belajar tentang Flutter dart
