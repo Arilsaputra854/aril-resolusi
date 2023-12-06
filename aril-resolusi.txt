@@ -4,3 +4,6 @@ Resolusi Saya:
 -Belajar tentang Javascript
 -Belajar tentang Flutter dart
 -Belajar tentang Java
+
+tidak terlalu dibutuhkan:
+-Belajar React JS
